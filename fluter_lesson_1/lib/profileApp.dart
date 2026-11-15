@@ -10,7 +10,7 @@ class ProfileApp extends StatelessWidget {
 class ProfilePage extends StatelessWidget {
   final String name = 'Baiymbet Askat';
   final String city = "I'm from Bishkek";
-  final String age = "I'm 29";
+  final String age = "I'm 29 years old";
   final String interest = 'I like learning Programming.\nIn my free time, I like to repair car engines.';
   @override
   Widget build(BuildContext context) {
